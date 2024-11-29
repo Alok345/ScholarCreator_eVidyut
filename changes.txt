@@ -1,0 +1,23 @@
+# image changes
+# review section remove
+# lending partner shuffle   last +9 remove
+# latest scholarship section remove
+# get education loan rupya symbol
+image left side or button right side
+reffered friends array map stored
+refferal page show referral history
+# aboutUs page---> page our mision
+# aboard education loan page--> same as gyandhan 
+# without login doesn't work any nav bar menu
+# footer all links navigate tyo same page and redirect login and then redirect scholarship page
+# ask your question add one field "query" in scholarship page
+# all enquiry in admin panel show in table view
+# check loan eligibility --> gyandhan loan eligiblity form
+# button on homepage change some other words
+# loan--> with/without collaterral remove
+# signup page --> add input box  6 digit referral code 
+# our scholarship--> description  page--> aply now button then show form 
+# study abroad dropdown only single page
+# services remove
+# blog/community comment
+# aboard eduaction loan remove in scholarship page
